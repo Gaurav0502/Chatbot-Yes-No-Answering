@@ -35,10 +35,8 @@
                 
                 <div class="typing-area" id="typingarea">
                     <div class="input-field">
-                      <form action="{{ url_for('home') }}" method="post">
                         <input type="text" name="qs" id="question" placeholder="Type your message" required>
-                        <input type="submit" id="btn" onclick="addMessageFromUser();" value="Send">
-                     </form>
+                        <button type="button" id="btn" onclick="addMessageFromUser();">Send</button>
                     </div>
                 </div>
             </div>
