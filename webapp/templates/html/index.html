@@ -5,9 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE-Edge">
         <meta name="viewport" content="with-device-width,initial-scale-1.0">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-        <link rel="stylesheet" href="../../static/style.css">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
         <title>RailBot</title>
-        <script src="../../static/js/events.js"></script>
+        <script src="{{ url_for('static', filename='js/events.js') }}"></script>
     </head>
     <body>
         <div class="wrapper">
@@ -35,8 +35,10 @@
                 
                 <div class="typing-area" id="typingarea">
                     <div class="input-field">
-                        <input type="text" id="question" placeholder="Type your message" required>
-                        <button onclick="addMessageFromUser();">Send</button>
+                      <form action="{{ url_for('respond') }}" method="POST">
+                        <input type="text" name="qs" id="question" placeholder="Type your message" required>
+                        <button type="submit" onsubmit="addMessageFromUser();">Send</button>
+                     </form>
                     </div>
                 </div>
             </div>
