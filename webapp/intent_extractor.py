@@ -13,5 +13,6 @@ def extract_intent(question):
     intent_similiarity = dict()
     for i in questions:
         intent_similiarity[i] = np.mean(list(map(question_similiarity,questions[i],[question]*len(questions[i]))))
+    #print(intent_similiarity)
     return max(zip(intent_similiarity.values(), intent_similiarity.keys()))[1]
     
