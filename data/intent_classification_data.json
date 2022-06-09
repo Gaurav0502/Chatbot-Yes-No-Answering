@@ -1,4 +1,4 @@
 {
     "TrainCheck":["Is X the train number of Y?","Does X have train number Y?"],
-    "RouteCheck":["Are X and Y connected by rail?","Is there a train connecting X and Y?"]
+    "RouteCheck":["Are X and Y connected by rail?","Is there a train connecting X and Y?", "X and Y have a rail connection?"]
 }
