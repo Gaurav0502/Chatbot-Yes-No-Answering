@@ -7,11 +7,13 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <link rel="stylesheet" href="../../static/style.css">
         <title>RailBot</title>
+        <script src="../../static/js/events.js"></script>
     </head>
     <body>
         <div class="wrapper">
             <div class="title">RailBot</div>
             <div class="box">
+              <div id="messaging">
                 <div class="item">
                     <div class="icon">
                        <i class="fa fa-user"></i>
@@ -20,17 +22,21 @@
                         <p>Hello, this is rail bot</p>
                     </div>
                 </div>
+                <!--
                 <br clear="both">
                 <div class="item right">
                     <div class="msg">
                         <p>Hi</p>
                     </div>
                 </div>
+               -->
+              </div>
+
                 
-                <div class="typing-area">
+                <div class="typing-area" id="typingarea">
                     <div class="input-field">
-                        <input type="text" placeholder="Type your message" required>
-                        <button>Send</button>
+                        <input type="text" id="question" placeholder="Type your message" required>
+                        <button onclick="addMessageFromUser();">Send</button>
                     </div>
                 </div>
             </div>
