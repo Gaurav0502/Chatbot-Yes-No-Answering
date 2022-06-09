@@ -19,7 +19,7 @@ function addMessageFromUser()
 
 function addMessageFromBot()
 {
-    let response = "Yes";
+    let responseFromBot = "{{ response }}";
     let appendLocation = document.getElementById("messaging");
     let newResponseDiv = document.createElement("div");
     newResponseDiv.className = "item";
@@ -32,7 +32,7 @@ function addMessageFromBot()
     let newSubDiv = document.createElement("div");
     newSubDiv.className = "msg";
     let responseContent = document.createElement("p");
-    responseContent.innerText = response;
+    responseContent.innerText = responseFromBot;
     newSubDiv.appendChild(responseContent);
     newResponseDiv.appendChild(newSubDiv);
     let alignment = document.createElement("br");
