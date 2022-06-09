@@ -8,7 +8,7 @@ def question_similiarity(sentence,question):
     return sent.similarity(q)
 
 def extract_intent(question):
-    file = open(r"..\data\intent_classification_data.json")
+    file = open(r"C:\Users\mitug\Chatbot-Yes-No-Answering\data\intent_classification_data.json")
     questions = json.load(file)
     intent_similiarity = dict()
     for i in questions:
