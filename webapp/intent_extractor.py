@@ -1,6 +1,8 @@
 import json
 import spacy
 import numpy as np
+import os
+
 def question_similiarity(sentence,question):
     nlp = spacy.load("en_core_web_sm")
     sent = nlp(sentence)
@@ -8,7 +10,7 @@ def question_similiarity(sentence,question):
     return sent.similarity(q)
 
 def extract_intent(question):
-    file = open(r"C:\Users\mitug\Chatbot-Yes-No-Answering\data\intent_classification_data.json")
+    file = open(os.path.abspath(r"..\Chatbot-Yes-No-Answering\data\intent_classification_data.json"))
     questions = json.load(file)
     intent_similiarity = dict()
     for i in questions:

@@ -1,8 +1,9 @@
 import pandas as pd
 import numpy as np
+import os
 
 def generate_response(intent,entities_with_labels):
-    trains = pd.read_csv(r"C:\Users\mitug\Chatbot-Yes-No-Answering\data\All_Indian_Trains.csv")
+    trains = pd.read_csv(os.path.abspath(r"..\Chatbot-Yes-No-Answering\data\All_Indian_Trains.csv"))
     column_intent_mapping = {
     "TrainCheck":["Train no.","Train name"],
     "RouteCheck":["Starts","Ends"]
