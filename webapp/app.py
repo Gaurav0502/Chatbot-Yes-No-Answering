@@ -2,6 +2,7 @@ from flask import Flask,render_template,request,redirect,jsonify
 from entity_extractor import *
 from intent_extractor import *
 from response_generator import *
+from log_generator import *
 
 app = Flask(__name__)
 
@@ -12,8 +13,10 @@ def get_response_from_bot(question):
      print(intent)
      entities = extract_entities(question)
      response = generate_response(intent,entities)
+     update_log(question,intent,entities,response,"True Positive")
     except KeyError:
      response = "Seems like an error occurred while answering this question"
+     update_log(question,intent,"NA","NA","False Positive")
     return response
 
 @app.route("/",methods=["GET","POST"])
