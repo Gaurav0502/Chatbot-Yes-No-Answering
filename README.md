@@ -20,6 +20,14 @@ Generally, a chatbot is made to cater a specific domain and each domain has some
 
 1. TrainCheck - Enquiry about the train name and numbers.
 2. RouteCheck - Enquiry regarding the existence of a route between a source and destination.
+
+Here, for intent classification each intent had two questions and for an new question, the following steps where followed:
+
+1. Calculating the similiarity of the new question with all questions under each intent.
+2. Averaging out the similiarities for question under each intent.
+3. The intent with maximum average similiarity is alloted.
+
+**<u>Note:</u>** For calculating similiarity between two word embeddings, spacy by defualt uses the Cosine Similiarity. Moreover, for use cases with higher number intents and question training examples machine learning models like Decision Trees and Neural Networks would be more appropriate.
      
 ### Entity Extraction
 After obtaining the intent behind the question, we shall extract the entities from the question. Here, the entities are mainly train numbers, train names, source and destination and they are mapped to existing named entities as follows:
@@ -47,12 +55,16 @@ After obtaining the intent behind the question, we shall extract the entities fr
     </tr>
 </table>
 
+For entity extraction, Named Entity Recognition(NER) model from spacy was used with fine-tuning the above mentioned entities using Transfer Learning.
+
 ### Question Answering
 Having acquired the intent and entities, now we answer the question from a knowledge-base or a database. For this chatbot, the types of answers are as follows:
 
 1. Yes
 2. No
 3. Seems like an error occurred while answering question.
+
+Since, the knowledge of the chatbot was confined to a dataset, the questions were answering by querying a Pandas DataFrame. 
 
 ### Deployment using Flask
 Having a fully functional chatbot, the next task is to integrate it with the web application. The major steps involved in deploying a chatbot are as follows:
