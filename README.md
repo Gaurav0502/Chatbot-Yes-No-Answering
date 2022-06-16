@@ -16,18 +16,18 @@ Every chatbot development process comprises of three key components as follows:
  4. Deployment using Flask
 
 ### Intent Classification
-Generally, a chatbot is made to cater a specific domain and each domain has some specific number of intents. An intent is resembles the significance of the question.   In this particular case, there two types of intents:
+Generally, a chatbot is made to cater a specific domain and each domain has some specific number of intents. An intent resembles the significance of the question.   In this particular case, there two types of intents:
 
 1. TrainCheck - Enquiry about the train name and numbers.
 2. RouteCheck - Enquiry regarding the existence of a route between a source and destination.
 
-Here, for intent classification each intent had two questions and for an new question, the following steps where followed:
+Here, for intent classification each intent had two questions and for a new question, the following steps where followed:
 
 1. Calculating the similiarity of the new question with all questions under each intent.
 2. Averaging out the similiarities for question under each intent.
 3. The intent with maximum average similiarity is alloted.
 
-**<u>Note:</u>** For calculating similiarity between two word embeddings, spacy by defualt uses the Cosine Similiarity. Moreover, for use cases with higher number intents and question training examples machine learning models like Decision Trees and Neural Networks would be more appropriate.
+**<u>Note:</u>** For calculating similiarity between two word embeddings, spacy by defualt uses the Cosine Similiarity. Moreover, for use cases with higher number intents and question training examples, machine learning models like Decision Trees and Neural Networks would be more appropriate.
      
 ### Entity Extraction
 After obtaining the intent behind the question, we shall extract the entities from the question. Here, the entities are mainly train numbers, train names, source and destination and they are mapped to existing named entities as follows:
@@ -62,7 +62,7 @@ Having acquired the intent and entities, now we answer the question from a knowl
 
 1. Yes
 2. No
-3. Seems like an error occurred while answering question.
+3. Seems like an error occurred while answering the question.
 
 Since, the knowledge of the chatbot was confined to a dataset, the questions were answering by querying a Pandas DataFrame. 
 
