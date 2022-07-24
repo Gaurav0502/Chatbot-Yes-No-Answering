@@ -1,0 +1,1001 @@
+Question,Expected Intent,Predicted Intent
+12130 is train number of Ju Puri Express?,TrainCheck,TrainCheck
+4037 is train number of Aii Puri Express?,TrainCheck,TrainCheck
+The train number 11098 corresponds to Bsp Rewa Fst Pg?,TrainCheck,TrainCheck
+Are there any train routes between Lokmanyatilak T and Agra Cantt?,RouteCheck,RouteCheck
+Is there a rail connection between Rameswaram and Bhind?,RouteCheck,RouteCheck
+Does there exist a route between Kanpur Central and Ratangarh Junction?,RouteCheck,RouteCheck
+Do Jaisalmer and Murkeongselek have a rail connection?,RouteCheck,RouteCheck
+Are Bangalore Cant and Dwarka connected by rail?,RouteCheck,RouteCheck
+Do Vishakapatnam and Palani have a rail connection?,RouteCheck,TrainCheck
+Palani Express is train name for 12403?,TrainCheck,TrainCheck
+52457 is train number of Abkp Durg Passenger E?,TrainCheck,TrainCheck
+Do Kanpur Central and Ratangarh Junction have a rail connection?,RouteCheck,TrainCheck
+Are there any train routes between Firozpur Cant and Tatanagar Junction?,RouteCheck,TrainCheck
+4823 is train number of Bbs Ypr Superfast Special?,TrainCheck,TrainCheck
+The train number 8244 corresponds to Abkp Jbp Express?,TrainCheck,TrainCheck
+Anvt Premium's train number is 52588?,TrainCheck,TrainCheck
+11035 is train number of Hazarduari Express?,TrainCheck,TrainCheck
+Are Balrampur and Ranchi connected by rail?,RouteCheck,RouteCheck
+Does there exist a route between Abohar and Dimapur?,RouteCheck,RouteCheck
+15604 is train number of Adi Jaipur Special?,TrainCheck,TrainCheck
+Nsl Sc Special's train number is 7324?,TrainCheck,TrainCheck
+Does Nagpur Pune Express have train number 22857?,TrainCheck,TrainCheck
+Does there exist a route between Karaikal and Guwahati?,RouteCheck,RouteCheck
+Is there a rail connection between Jaipur and Metupalaiyam?,RouteCheck,RouteCheck
+Are Mahuva Junction and Rishikesh connected by rail?,RouteCheck,RouteCheck
+Does Kochuveli Gr have train number 14001?,TrainCheck,TrainCheck
+Does there exist a route between Neral and Narasapur?,RouteCheck,RouteCheck
+The train number 57620 corresponds to Ju Hwh Superfast Special?,TrainCheck,TrainCheck
+The train number 15618 corresponds to Anvt Rdp Link?,TrainCheck,TrainCheck
+12537 is train number of Swarna Jayanti?,TrainCheck,TrainCheck
+Af Aii Intercity is train name for 14055?,TrainCheck,TrainCheck
+Katra Premium's train number is 12441?,TrainCheck,TrainCheck
+Are Nandurbar and Lumding Junction connected by rail?,RouteCheck,RouteCheck
+Do Jogbani and Raxual Junction have a rail connection?,RouteCheck,RouteCheck
+Do Nandurbar and Lumding Junction have a rail connection?,RouteCheck,RouteCheck
+The train number 3180 corresponds to Ald Ltt Special?,TrainCheck,TrainCheck
+Ljn Jp Special is train name for 2691?,TrainCheck,TrainCheck
+Do Rohtak Junction and Miraj Junction have a rail connection?,RouteCheck,RouteCheck
+Kcvl Ltt Superfast Express's train number is 12702?,TrainCheck,TrainCheck
+Are Kozhikode and Meerut City connected by rail?,RouteCheck,RouteCheck
+Dhn Garib Rath's train number is 18645?,TrainCheck,TrainCheck
+Does there exist a route between Kishanganj and Bidar?,RouteCheck,RouteCheck
+Cnb Cstm Special's train number is 12053?,TrainCheck,TrainCheck
+Do Delhi and Naharlagun have a rail connection?,RouteCheck,RouteCheck
+Abkp Durg Passenger E's train number is 52457?,TrainCheck,TrainCheck
+Af Aii Intercity's train number is 14055?,TrainCheck,TrainCheck
+Nanda Devi Express is train name for 11024?,TrainCheck,TrainCheck
+Does there exist a route between Bokaro Stl City and Amravati?,RouteCheck,TrainCheck
+Alleppey Express is train name for 12921?,TrainCheck,TrainCheck
+Does there exist a route between Anand Vihar Trm and Manmad Junction?,RouteCheck,RouteCheck
+Are Lumding Junction and Kacheguda connected by rail?,RouteCheck,RouteCheck
+Bdts Rmr Express is train name for 3043?,TrainCheck,TrainCheck
+Do Fazilka and Punalur have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Kollam Junction and Guruvayur?,RouteCheck,RouteCheck
+Do Gwalior and Dharmanagar have a rail connection?,RouteCheck,RouteCheck
+Are Eranakulam Junction and Guntur Junction connected by rail?,RouteCheck,RouteCheck
+Do Sengottai and Pandharpur have a rail connection?,RouteCheck,RouteCheck
+Does Katra Premium have train number 12441?,TrainCheck,TrainCheck
+Nsl Sc Special is train name for 7324?,TrainCheck,TrainCheck
+Are Paradip and Rajgir connected by rail?,RouteCheck,RouteCheck
+Are Singrauli and Kollam Junction connected by rail?,RouteCheck,RouteCheck
+Are there any train routes between Jogbani and Raxual Junction?,RouteCheck,RouteCheck
+Lku Ndls Ac Express is train name for 15056?,TrainCheck,TrainCheck
+11024 is train number of Nanda Devi Express?,TrainCheck,TrainCheck
+Anvt Rdp Link is train name for 15618?,TrainCheck,TrainCheck
+Is there a rail connection between Mumbai Central and Rae Bareli Junction?,RouteCheck,RouteCheck
+Does there exist a route between Jagdalpur and Bhagat Ki Kothi?,RouteCheck,RouteCheck
+Is there a rail connection between Bhojudih Junction and Vellankanni?,RouteCheck,RouteCheck
+Do Sainagar Shirdi and Amritsar Junction have a rail connection?,RouteCheck,TrainCheck
+Is there a rail connection between Puducherry and Gudur Junction?,RouteCheck,RouteCheck
+Does Aii Puri Express have train number 4037?,TrainCheck,TrainCheck
+Does there exist a route between Bijapur and Shakti Nagar?,RouteCheck,RouteCheck
+Do Lumding Junction and Kacheguda have a rail connection?,RouteCheck,RouteCheck
+Bhopal Express is train name for 15105?,TrainCheck,TrainCheck
+Are Mayiladuturai J and Shri Ganganagar connected by rail?,RouteCheck,RouteCheck
+Are there any train routes between Bilaspur Junction and Jhajha?,RouteCheck,RouteCheck
+Are Sengottai and Pandharpur connected by rail?,RouteCheck,RouteCheck
+Are Bilaspur Junction and Jhajha connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Kochuveli and Shoranur Junction?,RouteCheck,RouteCheck
+Abkp Jbp Express is train name for 8244?,TrainCheck,TrainCheck
+Are Udagamandalam and Nandurbar connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Jaisalmer and Murkeongselek?,RouteCheck,RouteCheck
+Are Gulbarga and Una Himachal connected by rail?,RouteCheck,RouteCheck
+Ms Tpj Superfast Express is train name for 12774?,TrainCheck,TrainCheck
+Are there any train routes between Mhow and Allahabad Junction?,RouteCheck,RouteCheck
+Does Bkn Udn Special have train number 2236?,TrainCheck,TrainCheck
+Nanda Devi Express's train number is 11024?,TrainCheck,TrainCheck
+Rtgh Bkn Special is train name for 6301?,TrainCheck,TrainCheck
+Is there a rail connection between Eranakulam Junction and Guntur Junction?,RouteCheck,RouteCheck
+Are there any train routes between Manmad Junction and Manuguru?,RouteCheck,RouteCheck
+12938 is train number of Jp Koaa Premium?,TrainCheck,TrainCheck
+Are there any train routes between Murkeongselek and C Shahumharaj T?,RouteCheck,RouteCheck
+Bsb Ghy Special's train number is 57306?,TrainCheck,TrainCheck
+Tpty Cmnr Passenger's train number is 22606?,TrainCheck,TrainCheck
+Pnbe Ndls Ac Special is train name for 14016?,TrainCheck,TrainCheck
+Are there any train routes between Rohtak Junction and Miraj Junction?,RouteCheck,RouteCheck
+The train number 7324 corresponds to Nsl Sc Special?,TrainCheck,TrainCheck
+22875 is train number of Bpl Pbh Superfast Express?,TrainCheck,TrainCheck
+Are New Delhi and Latur connected by rail?,RouteCheck,RouteCheck
+Latur Pvr Special is train name for 18507?,TrainCheck,TrainCheck
+The train number 12603 corresponds to Agtl Dmr Passenger?,TrainCheck,TrainCheck
+Bsp Rewa Fst Pg is train name for 11098?,TrainCheck,TrainCheck
+Are there any train routes between Harihar and Bhusaval Junction?,RouteCheck,RouteCheck
+Pnbe Ndls Ac Special's train number is 14016?,TrainCheck,TrainCheck
+3057 is train number of Bbs Pnbe Special?,TrainCheck,TrainCheck
+Tirupathi Express's train number is 2907?,TrainCheck,TrainCheck
+5611 is train number of Ned Vskp Express?,TrainCheck,TrainCheck
+Dhn Garib Rath is train name for 18645?,TrainCheck,TrainCheck
+Are Khajuraho and Tirunelveli connected by rail?,RouteCheck,RouteCheck
+Mahakoshal Express's train number is 12786?,TrainCheck,TrainCheck
+Do Mumbai Central and Rae Bareli Junction have a rail connection?,RouteCheck,TrainCheck
+Are Kathgodam and Hyderabad Decan connected by rail?,RouteCheck,RouteCheck
+The train number 18501 corresponds to Mq Bgkt Express?,TrainCheck,TrainCheck
+Does Ms Salem Express have train number 7622?,TrainCheck,TrainCheck
+Cdg Rmr Special's train number is 2015?,TrainCheck,TrainCheck
+Danapur Hwh Express is train name for 9732?,TrainCheck,TrainCheck
+Are Narasapur and Bijapur connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Singrauli and Kollam Junction?,RouteCheck,RouteCheck
+Do Bhojudih Junction and Vellankanni have a rail connection?,RouteCheck,RouteCheck
+Are there any train routes between Munabao and Koraput?,RouteCheck,RouteCheck
+Hbj Ngp Special's train number is 12123?,TrainCheck,TrainCheck
+Do Lokmanyatilak T and Agra Cantt have a rail connection?,RouteCheck,TrainCheck
+Is there a rail connection between Dimapur and Gevra Road?,RouteCheck,RouteCheck
+Does Ju Hwh Superfast Special have train number 57620?,TrainCheck,TrainCheck
+The train number 12403 corresponds to Palani Express?,TrainCheck,TrainCheck
+Are there any train routes between Jaipur and Metupalaiyam?,RouteCheck,RouteCheck
+Are there any train routes between Bayana Junction and Surat?,RouteCheck,RouteCheck
+Do Bokaro Stl City and Amravati have a rail connection?,RouteCheck,TrainCheck
+22928 is train number of Aii Jp Superfast Special?,TrainCheck,TrainCheck
+The train number 2234 corresponds to Kota Janshtbdi?,TrainCheck,TrainCheck
+Do Nanded and Kanpur Anwrganj have a rail connection?,RouteCheck,TrainCheck
+Does Ald Adi Express have train number 12209?,TrainCheck,TrainCheck
+Ubl Ltt Express's train number is 18216?,TrainCheck,TrainCheck
+Does Narmada Express Passenger have train number 1708?,TrainCheck,TrainCheck
+Is there a rail connection between Mangalore Cntl and Tiruchchirapali?,RouteCheck,RouteCheck
+Do Ahmedabad Mg and Amb Andaura have a rail connection?,RouteCheck,RouteCheck
+Are Sikar Junction and Kurnool Town connected by rail?,RouteCheck,RouteCheck
+11052 is train number of Bp Amh Express?,TrainCheck,TrainCheck
+Are there any train routes between Ranchi and Haldia?,RouteCheck,RouteCheck
+2696 is train number of Ltt Coa Express?,TrainCheck,TrainCheck
+Vskp Sc Superfast Special's train number is 22442?,TrainCheck,TrainCheck
+Ald Adi Express is train name for 12209?,TrainCheck,TrainCheck
+Is there a rail connection between Bangalore Cy Junction and Bangriposi?,RouteCheck,RouteCheck
+Do Bolpur S Niktn and Habibganj have a rail connection?,RouteCheck,RouteCheck
+Are there any train routes between Saharanpur and Kakinada Town?,RouteCheck,RouteCheck
+Are Vishakapatnam and Palani connected by rail?,RouteCheck,RouteCheck
+Are there any train routes between Jaisalmer and Murkeongselek?,RouteCheck,RouteCheck
+Does there exist a route between Narasapur and Bijapur?,RouteCheck,RouteCheck
+Bkn Bsp Express's train number is 7116?,TrainCheck,TrainCheck
+Bsb Sdah Express is train name for 12978?,TrainCheck,TrainCheck
+Does there exist a route between Rangiya Junction and Kanpur Central?,RouteCheck,RouteCheck
+Does Mewar Express have train number 12783?,TrainCheck,TrainCheck
+Mq Bgkt Express is train name for 18501?,TrainCheck,TrainCheck
+Does there exist a route between Kozhikode and Meerut City?,RouteCheck,RouteCheck
+Does Bsb Ghy Special have train number 57306?,TrainCheck,TrainCheck
+Does there exist a route between Gwalior and Dharmanagar?,RouteCheck,RouteCheck
+The train number 12786 corresponds to Mahakoshal Express?,TrainCheck,TrainCheck
+Does Dhn Garib Rath have train number 18645?,TrainCheck,TrainCheck
+Are there any train routes between Agartala and Thanjavur?,RouteCheck,RouteCheck
+Do Kollam Junction and Guruvayur have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Mahuva Junction and Rishikesh?,RouteCheck,RouteCheck
+Do Howrah Junction and Sai P Nilayam have a rail connection?,RouteCheck,TrainCheck
+Kota Jaipur Passenger's train number is 12981?,TrainCheck,TrainCheck
+St Aii Special is train name for 18606?,TrainCheck,TrainCheck
+Bp Amh Express is train name for 11052?,TrainCheck,TrainCheck
+Bbs Ypr Superfast Special is train name for 4823?,TrainCheck,TrainCheck
+12209 is train number of Ald Adi Express?,TrainCheck,TrainCheck
+Does Bsb Sbp Express have train number 19802?,TrainCheck,TrainCheck
+Anvt Premium is train name for 52588?,TrainCheck,TrainCheck
+The train number 12783 corresponds to Mewar Express?,TrainCheck,TrainCheck
+22605 is train number of Dee Bkn Superfast Express?,TrainCheck,TrainCheck
+Does Ms Tpj Superfast Express have train number 12774?,TrainCheck,TrainCheck
+1708 is train number of Narmada Express Passenger?,TrainCheck,TrainCheck
+Are there any train routes between Dhubri and Dibrugarh Town?,RouteCheck,RouteCheck
+The train number 14257 corresponds to Jbp Intercity E?,TrainCheck,TrainCheck
+Does there exist a route between Kochuveli and Shoranur Junction?,RouteCheck,RouteCheck
+The train number 14016 corresponds to Pnbe Ndls Ac Special?,TrainCheck,TrainCheck
+Are Mannargudi and Sahibganj Junction connected by rail?,RouteCheck,RouteCheck
+Are there any train routes between Solapur Junction and Malda Town?,RouteCheck,RouteCheck
+Ltt Coa Express is train name for 2696?,TrainCheck,TrainCheck
+The train number 74640 corresponds to Gkp Ltt Express?,TrainCheck,TrainCheck
+Is there a rail connection between Neral and Narasapur?,RouteCheck,RouteCheck
+Are Rohtak Junction and Miraj Junction connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Bolpur S Niktn and Habibganj?,RouteCheck,RouteCheck
+Are Jaisalmer and Murkeongselek connected by rail?,RouteCheck,RouteCheck
+Does Abkp Jbp Express have train number 8244?,TrainCheck,TrainCheck
+Ald Adi Express's train number is 12209?,TrainCheck,TrainCheck
+Gkp Ltt Express's train number is 74640?,TrainCheck,TrainCheck
+Is there a rail connection between Merta Road Junction and Pathankot?,RouteCheck,RouteCheck
+Are Sainagar Shirdiesvantpur Junction and Sainagar Shirdi connected by rail?,RouteCheck,RouteCheck
+Are there any train routes between Puducherry and Gudur Junction?,RouteCheck,RouteCheck
+The train number 4409 corresponds to Ltt Puri Superfast Express?,TrainCheck,TrainCheck
+Is there a rail connection between Gulbarga and Una Himachal?,RouteCheck,RouteCheck
+Bbs Bpo Express's train number is 18464?,TrainCheck,TrainCheck
+The train number 13205 corresponds to Chandigarh Express?,TrainCheck,TrainCheck
+Are there any train routes between Gulbarga and Una Himachal?,RouteCheck,RouteCheck
+Is there a rail connection between Mandasor and Kolkata?,RouteCheck,RouteCheck
+Is there a rail connection between Sikar Junction and Kurnool Town?,RouteCheck,RouteCheck
+Is there a rail connection between Khajuraho and Tirunelveli?,RouteCheck,RouteCheck
+Does Ltt Rn Special have train number 23347?,TrainCheck,TrainCheck
+Bsb Sbp Express is train name for 19802?,TrainCheck,TrainCheck
+Are Bangalore Cy Junction and Bangriposi connected by rail?,RouteCheck,RouteCheck
+Does Alleppey Express have train number 12921?,TrainCheck,TrainCheck
+Bbs Rou Intercity Express is train name for 9422?,TrainCheck,TrainCheck
+15618 is train number of Anvt Rdp Link?,TrainCheck,TrainCheck
+Is there a rail connection between Bagalkot and Titlagarh?,RouteCheck,RouteCheck
+57306 is train number of Bsb Ghy Special?,TrainCheck,TrainCheck
+Does there exist a route between Dhubri and Dibrugarh Town?,RouteCheck,RouteCheck
+Do Balrampur and Ranchi have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Howrah Junction and Sai P Nilayam?,RouteCheck,TrainCheck
+Ru Hyb Special is train name for 22453?,TrainCheck,TrainCheck
+The train number 9732 corresponds to Danapur Hwh Express?,TrainCheck,TrainCheck
+Does there exist a route between Adilabad and Karaikal?,RouteCheck,RouteCheck
+Dibrugarh Express is train name for 15483?,TrainCheck,TrainCheck
+22456 is train number of Jp Bdts Premium?,TrainCheck,TrainCheck
+Are Fazilka and Punalur connected by rail?,RouteCheck,RouteCheck
+Does there exist a route between Ranchi and Haldia?,RouteCheck,RouteCheck
+Does Asr Ndls Express have train number 13242?,TrainCheck,TrainCheck
+Are Anand Vihar Trm and Manmad Junction connected by rail?,RouteCheck,RouteCheck
+Does there exist a route between Gulbarga and Una Himachal?,RouteCheck,RouteCheck
+Do Guntur Junction and Durg have a rail connection?,RouteCheck,RouteCheck
+The train number 14055 corresponds to Af Aii Intercity?,TrainCheck,TrainCheck
+15111 is train number of Sln Aii Express?,TrainCheck,TrainCheck
+Pune Nanded Express is train name for 12548?,TrainCheck,TrainCheck
+Are Firozpur Cant and Tatanagar Junction connected by rail?,RouteCheck,RouteCheck
+Are Guntur Junction and Durg connected by rail?,RouteCheck,RouteCheck
+Bti Lgh Passenger is train name for 11207?,TrainCheck,TrainCheck
+Is there a rail connection between Trivandrum Cntl and Jamnagar?,RouteCheck,RouteCheck
+Adi Jaipur Special is train name for 15604?,TrainCheck,TrainCheck
+Bti Lgh Passenger's train number is 11207?,TrainCheck,TrainCheck
+Does Ju Puri Express have train number 12130?,TrainCheck,TrainCheck
+Is there a rail connection between Guntur Junction and Durg?,RouteCheck,RouteCheck
+Does Dibrugarh Express have train number 15483?,TrainCheck,TrainCheck
+Does there exist a route between Fazilka and Punalur?,RouteCheck,RouteCheck
+Does there exist a route between Jamalpur Junction and Paradip?,RouteCheck,RouteCheck
+Does there exist a route between Manmad Junction and Manuguru?,RouteCheck,RouteCheck
+Is there a rail connection between Mayiladuturai J and Shri Ganganagar?,RouteCheck,RouteCheck
+Does Hwh Kir Express have train number 13109?,TrainCheck,TrainCheck
+The train number 7116 corresponds to Bkn Bsp Express?,TrainCheck,TrainCheck
+Are Bagalkot and Titlagarh connected by rail?,RouteCheck,RouteCheck
+Hbj Ngp Special is train name for 12123?,TrainCheck,TrainCheck
+18501 is train number of Mq Bgkt Express?,TrainCheck,TrainCheck
+Does Palani Express have train number 12403?,TrainCheck,TrainCheck
+Are Sainagar Shirdi and Amritsar Junction connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Rangiya Junction and Kanpur Central?,RouteCheck,RouteCheck
+Is there a rail connection between Lokmanyatilak T and Agra Cantt?,RouteCheck,RouteCheck
+Does there exist a route between Udagamandalam and Nandurbar?,RouteCheck,RouteCheck
+Are there any train routes between Sengottai and Pandharpur?,RouteCheck,RouteCheck
+Does Kota Janshtbdi have train number 2234?,TrainCheck,TrainCheck
+Does there exist a route between New Delhi and Latur?,RouteCheck,RouteCheck
+Are Jogbani and Raxual Junction connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Naharlagun and Gorakhpur Junction?,RouteCheck,RouteCheck
+Agtl Dmr Passenger is train name for 12603?,TrainCheck,TrainCheck
+Are there any train routes between Bolpur S Niktn and Habibganj?,RouteCheck,RouteCheck
+Are there any train routes between Trivandrum Cntl and Jamnagar?,RouteCheck,RouteCheck
+Is there a rail connection between Fazilka and Punalur?,RouteCheck,RouteCheck
+2838 is train number of Bkn Ypr Special?,TrainCheck,TrainCheck
+12441 is train number of Katra Premium?,TrainCheck,TrainCheck
+Ntv Intercity's train number is 17480?,TrainCheck,TrainCheck
+Are Merta Road Junction and Pathankot connected by rail?,RouteCheck,RouteCheck
+Jp Mysore Express is train name for 3556?,TrainCheck,TrainCheck
+Does there exist a route between Nandurbar and Lumding Junction?,RouteCheck,RouteCheck
+Are Lucknow Ne and Bayana Junction connected by rail?,RouteCheck,RouteCheck
+The train number 15111 corresponds to Sln Aii Express?,TrainCheck,TrainCheck
+Is there a rail connection between Jammu Tawi and Gwalior?,RouteCheck,RouteCheck
+Ju Hwh Superfast Special is train name for 57620?,TrainCheck,TrainCheck
+Are Kollam Junction and Guruvayur connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Bokaro Stl City and Amravati?,RouteCheck,RouteCheck
+12910 is train number of Bsp Pune Superfast Express?,TrainCheck,TrainCheck
+The train number 57306 corresponds to Bsb Ghy Special?,TrainCheck,TrainCheck
+The train number 4823 corresponds to Bbs Ypr Superfast Special?,TrainCheck,TrainCheck
+Does Pnbe Ndls Ac Special have train number 14016?,TrainCheck,TrainCheck
+The train number 12441 corresponds to Katra Premium?,TrainCheck,TrainCheck
+The train number 11052 corresponds to Bp Amh Express?,TrainCheck,TrainCheck
+Ald Dli Superfast Special is train name for 17239?,TrainCheck,TrainCheck
+Is there a rail connection between Mokameh Junction and Madurai Junction?,RouteCheck,RouteCheck
+Bpl Pbh Superfast Express's train number is 22875?,TrainCheck,TrainCheck
+Do Kathgodam and Hyderabad Decan have a rail connection?,RouteCheck,TrainCheck
+The train number 6301 corresponds to Rtgh Bkn Special?,TrainCheck,TrainCheck
+Are Rewari and Bokaro Stl City connected by rail?,RouteCheck,RouteCheck
+Bbs Bpo Express is train name for 18464?,TrainCheck,TrainCheck
+Is there a rail connection between Ahmedabad Junction and Daund Junction?,RouteCheck,RouteCheck
+The train number 3556 corresponds to Jp Mysore Express?,TrainCheck,TrainCheck
+Ald Ltt Special's train number is 3180?,TrainCheck,TrainCheck
+Are there any train routes between Ahmedabad Junction and Daund Junction?,RouteCheck,RouteCheck
+The train number 12921 corresponds to Alleppey Express?,TrainCheck,TrainCheck
+Jbp Intercity E is train name for 14257?,TrainCheck,TrainCheck
+Do Neral and Narasapur have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Naharlagun and Gorakhpur Junction?,RouteCheck,RouteCheck
+Are there any train routes between Mokameh Junction and Madurai Junction?,RouteCheck,RouteCheck
+Are there any train routes between Bangalore Cant and Dwarka?,RouteCheck,TrainCheck
+Is there a rail connection between Solapur Junction and Malda Town?,RouteCheck,RouteCheck
+Is there a rail connection between Jamalpur Junction and Paradip?,RouteCheck,RouteCheck
+Does there exist a route between Agartala and Thanjavur?,RouteCheck,RouteCheck
+The train number 3043 corresponds to Bdts Rmr Express?,TrainCheck,TrainCheck
+Is there a rail connection between Kathgodam and Hyderabad Decan?,RouteCheck,RouteCheck
+The train number 5611 corresponds to Ned Vskp Express?,TrainCheck,TrainCheck
+Aii Puri Express's train number is 4037?,TrainCheck,TrainCheck
+Dibrugarh Express's train number is 15483?,TrainCheck,TrainCheck
+Are there any train routes between Ajni and Mathura Junction?,RouteCheck,RouteCheck
+Does Bsb Mys Express have train number 22415?,TrainCheck,TrainCheck
+18216 is train number of Ubl Ltt Express?,TrainCheck,TrainCheck
+14001 is train number of Kochuveli Gr?,TrainCheck,TrainCheck
+Are Trivandrum Cntl and Jamnagar connected by rail?,RouteCheck,RouteCheck
+12981 is train number of Kota Jaipur Passenger?,TrainCheck,TrainCheck
+Are there any train routes between Balrampur and Ranchi?,RouteCheck,RouteCheck
+Do Merta Road Junction and Pathankot have a rail connection?,RouteCheck,TrainCheck
+Does there exist a route between Singrauli and Kollam Junction?,RouteCheck,RouteCheck
+The train number 22857 corresponds to Nagpur Pune Express?,TrainCheck,TrainCheck
+Are Delhi and Naharlagun connected by rail?,RouteCheck,RouteCheck
+The train number 22456 corresponds to Jp Bdts Premium?,TrainCheck,TrainCheck
+Kota Janshtbdi is train name for 2234?,TrainCheck,TrainCheck
+Do Udagamandalam and Nandurbar have a rail connection?,RouteCheck,TrainCheck
+Snsi Puri Special's train number is 15232?,TrainCheck,TrainCheck
+18611 is train number of Hubli Passenger?,TrainCheck,TrainCheck
+Ju Puri Express's train number is 12130?,TrainCheck,TrainCheck
+Do Lucknow Ne and Bayana Junction have a rail connection?,RouteCheck,TrainCheck
+Is there a rail connection between Sainagar Shirdiesvantpur Junction and Sainagar Shirdi?,RouteCheck,RouteCheck
+Are there any train routes between Kollam Junction and Guruvayur?,RouteCheck,RouteCheck
+Does Rtgh Bkn Special have train number 6301?,TrainCheck,TrainCheck
+Are there any train routes between Kanpur Central and Ratangarh Junction?,RouteCheck,RouteCheck
+Do Ambala Cant Junction and Kochuveli have a rail connection?,RouteCheck,TrainCheck
+Does Adi Jaipur Special have train number 15604?,TrainCheck,TrainCheck
+Is there a rail connection between Jogbani and Raxual Junction?,RouteCheck,RouteCheck
+Sln Aii Express is train name for 15111?,TrainCheck,TrainCheck
+The train number 15483 corresponds to Dibrugarh Express?,TrainCheck,TrainCheck
+Do Bayana Junction and Surat have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Munabao and Koraput?,RouteCheck,RouteCheck
+The train number 16102 corresponds to Ngp Pune Superfast Special?,TrainCheck,TrainCheck
+Are there any train routes between Anand Vihar Trm and Manmad Junction?,RouteCheck,RouteCheck
+Are Bayana Junction and Surat connected by rail?,RouteCheck,RouteCheck
+Do Harihar and Bhusaval Junction have a rail connection?,RouteCheck,RouteCheck
+Pune Src Special's train number is 13153?,TrainCheck,TrainCheck
+Does there exist a route between Guntakal Junction and Kamakhya?,RouteCheck,RouteCheck
+Do Kurseong and Beas have a rail connection?,RouteCheck,TrainCheck
+2015 is train number of Cdg Rmr Special?,TrainCheck,TrainCheck
+Are Jammu Tawi and Gwalior connected by rail?,RouteCheck,RouteCheck
+12123 is train number of Hbj Ngp Special?,TrainCheck,TrainCheck
+The train number 17239 corresponds to Ald Dli Superfast Special?,TrainCheck,TrainCheck
+13242 is train number of Asr Ndls Express?,TrainCheck,TrainCheck
+Does Ltt Coa Express have train number 2696?,TrainCheck,TrainCheck
+Does there exist a route between Jaipur and Metupalaiyam?,RouteCheck,RouteCheck
+Do Thanjavur and Baramati have a rail connection?,RouteCheck,RouteCheck
+Are Jamnagar and Palitana connected by rail?,RouteCheck,RouteCheck
+The train number 12702 corresponds to Kcvl Ltt Superfast Express?,TrainCheck,TrainCheck
+Is there a rail connection between Sainagar Shirdi and Amritsar Junction?,RouteCheck,RouteCheck
+Are Dhubri and Dibrugarh Town connected by rail?,RouteCheck,RouteCheck
+Are Naharlagun and Gorakhpur Junction connected by rail?,RouteCheck,RouteCheck
+14016 is train number of Pnbe Ndls Ac Special?,TrainCheck,TrainCheck
+15056 is train number of Lku Ndls Ac Express?,TrainCheck,TrainCheck
+Is there a rail connection between Agartala and Thanjavur?,RouteCheck,RouteCheck
+Are there any train routes between Gwalior and Dharmanagar?,RouteCheck,RouteCheck
+The train number 12981 corresponds to Kota Jaipur Passenger?,TrainCheck,TrainCheck
+Are there any train routes between Mayiladuturai J and Shri Ganganagar?,RouteCheck,RouteCheck
+Nagpur Pune Express's train number is 22857?,TrainCheck,TrainCheck
+Are there any train routes between Mathura Junction and Srinagar?,RouteCheck,RouteCheck
+Does Jp Mysore Express have train number 3556?,TrainCheck,TrainCheck
+The train number 2761 corresponds to Cpr G Express?,TrainCheck,TrainCheck
+Does there exist a route between Rohtak Junction and Miraj Junction?,RouteCheck,RouteCheck
+Does there exist a route between Eranakulam Junction and Guntur Junction?,RouteCheck,RouteCheck
+Are Munabao and Koraput connected by rail?,RouteCheck,RouteCheck
+Are there any train routes between Delhi and Naharlagun?,RouteCheck,RouteCheck
+6543 is train number of Mfp Bju Special?,TrainCheck,TrainCheck
+The train number 22606 corresponds to Tpty Cmnr Passenger?,TrainCheck,TrainCheck
+Does Muzaffarpur Express have train number 12272?,TrainCheck,TrainCheck
+Does there exist a route between Kurseong and Beas?,RouteCheck,RouteCheck
+Are there any train routes between Mumbai Central and Rae Bareli Junction?,RouteCheck,RouteCheck
+Do Agartala and Thanjavur have a rail connection?,RouteCheck,RouteCheck
+11056 is train number of Ndls Uhp Ac Special?,TrainCheck,TrainCheck
+Do Khajuraho and Tirunelveli have a rail connection?,RouteCheck,RouteCheck
+Is there a rail connection between Balrampur and Ranchi?,RouteCheck,RouteCheck
+Bsb Mys Express's train number is 22415?,TrainCheck,TrainCheck
+16102 is train number of Ngp Pune Superfast Special?,TrainCheck,TrainCheck
+Bkn Udn Special's train number is 2236?,TrainCheck,TrainCheck
+Muzaffarpur Express's train number is 12272?,TrainCheck,TrainCheck
+Hwh Kir Express is train name for 13109?,TrainCheck,TrainCheck
+Do Anand Vihar and Vasco Da Gama have a rail connection?,RouteCheck,TrainCheck
+Mfp Bju Special is train name for 6543?,TrainCheck,TrainCheck
+Is there a rail connection between Somnath and Merta Road Junction?,RouteCheck,RouteCheck
+Are there any train routes between Kochuveli and Shoranur Junction?,RouteCheck,RouteCheck
+The train number 18216 corresponds to Ubl Ltt Express?,TrainCheck,TrainCheck
+Do Firozpur Cant and Tatanagar Junction have a rail connection?,RouteCheck,TrainCheck
+Are Jaipur and Metupalaiyam connected by rail?,RouteCheck,RouteCheck
+Do Radhikapur and Howrah Junction have a rail connection?,RouteCheck,RouteCheck
+Does Bbs Ypr Superfast Special have train number 4823?,TrainCheck,TrainCheck
+Adi Jaipur Special's train number is 15604?,TrainCheck,TrainCheck
+Do Mayiladuturai J and Shri Ganganagar have a rail connection?,RouteCheck,TrainCheck
+Are there any train routes between Bijapur and Shakti Nagar?,RouteCheck,RouteCheck
+Are Karwar and Hospet Junction connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Harihar and Bhusaval Junction?,RouteCheck,RouteCheck
+Asr Ndls Express is train name for 13242?,TrainCheck,TrainCheck
+Are there any train routes between Rangiya Junction and Kanpur Central?,RouteCheck,RouteCheck
+Does there exist a route between Mangalore Cntl and Tiruchchirapali?,RouteCheck,RouteCheck
+Bbs Pnbe Special's train number is 3057?,TrainCheck,TrainCheck
+Anvt Rdp Link's train number is 15618?,TrainCheck,TrainCheck
+Do Aurangabad and Shalimar have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Harihar and Bhusaval Junction?,RouteCheck,RouteCheck
+Bsp Pune Superfast Express's train number is 12910?,TrainCheck,TrainCheck
+Does there exist a route between Aurangabad and Shalimar?,RouteCheck,RouteCheck
+Are there any train routes between Eranakulam Junction and Guntur Junction?,RouteCheck,RouteCheck
+The train number 15105 corresponds to Bhopal Express?,TrainCheck,TrainCheck
+Does there exist a route between Mandasor and Kolkata?,RouteCheck,RouteCheck
+Pune Nanded Express's train number is 12548?,TrainCheck,TrainCheck
+Does there exist a route between Paradip and Rajgir?,RouteCheck,RouteCheck
+Is there a rail connection between Jamnagar and Palitana?,RouteCheck,RouteCheck
+Does Kota Jaipur Passenger have train number 12981?,TrainCheck,TrainCheck
+Does there exist a route between Ahmedabad Junction and Daund Junction?,RouteCheck,RouteCheck
+Are there any train routes between Khajuraho and Tirunelveli?,RouteCheck,RouteCheck
+Ngp Pune Superfast Special's train number is 16102?,TrainCheck,TrainCheck
+Does there exist a route between Sambalpur and Simla?,RouteCheck,RouteCheck
+Do Ahmedabad Junction and Daund Junction have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Sainagar Shirdiesvantpur Junction and Sainagar Shirdi?,RouteCheck,RouteCheck
+Is there a rail connection between Karwar and Hospet Junction?,RouteCheck,RouteCheck
+11207 is train number of Bti Lgh Passenger?,TrainCheck,TrainCheck
+Do Puducherry and Gudur Junction have a rail connection?,RouteCheck,TrainCheck
+The train number 13242 corresponds to Asr Ndls Express?,TrainCheck,TrainCheck
+The train number 18507 corresponds to Latur Pvr Special?,TrainCheck,TrainCheck
+Do Kozhikode and Meerut City have a rail connection?,RouteCheck,RouteCheck
+Are Howrah Junction and Sai P Nilayam connected by rail?,RouteCheck,RouteCheck
+12403 is train number of Palani Express?,TrainCheck,TrainCheck
+The train number 12741 corresponds to Bsp Pnbe Express?,TrainCheck,TrainCheck
+Are there any train routes between Ambala Cant Junction and Kochuveli?,RouteCheck,TrainCheck
+Purvanchal Express's train number is 2741?,TrainCheck,TrainCheck
+The train number 12938 corresponds to Jp Koaa Premium?,TrainCheck,TrainCheck
+The train number 18606 corresponds to St Aii Special?,TrainCheck,TrainCheck
+Are there any train routes between Karwar and Hospet Junction?,RouteCheck,RouteCheck
+Does there exist a route between Dimapur and Gevra Road?,RouteCheck,RouteCheck
+Are Kishanganj and Bidar connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Lumding Junction and Kacheguda?,RouteCheck,RouteCheck
+Do Narasapur and Bijapur have a rail connection?,RouteCheck,RouteCheck
+15119 is train number of Itr Tata Passgn?,TrainCheck,TrainCheck
+The train number 2691 corresponds to Ljn Jp Special?,TrainCheck,TrainCheck
+Are Solapur Junction and Malda Town connected by rail?,RouteCheck,RouteCheck
+Do Saharanpur and Kakinada Town have a rail connection?,RouteCheck,TrainCheck
+Do Rewa and Alleppey have a rail connection?,RouteCheck,RouteCheck
+Does Bsp Rewa Fst Pg have train number 11098?,TrainCheck,TrainCheck
+The train number 52457 corresponds to Abkp Durg Passenger E?,TrainCheck,TrainCheck
+13153 is train number of Pune Src Special?,TrainCheck,TrainCheck
+Does there exist a route between Solapur Junction and Malda Town?,RouteCheck,RouteCheck
+12702 is train number of Kcvl Ltt Superfast Express?,TrainCheck,TrainCheck
+Do Mannargudi and Sahibganj Junction have a rail connection?,RouteCheck,RouteCheck
+Do Bijapur and Shakti Nagar have a rail connection?,RouteCheck,TrainCheck
+Does Ald Dli Superfast Special have train number 17239?,TrainCheck,TrainCheck
+Are Ahmedabad Junction and Daund Junction connected by rail?,RouteCheck,RouteCheck
+17480 is train number of Ntv Intercity?,TrainCheck,TrainCheck
+Do Paradip and Rajgir have a rail connection?,RouteCheck,TrainCheck
+4409 is train number of Ltt Puri Superfast Express?,TrainCheck,TrainCheck
+Are there any train routes between Sainagar Shirdi and Amritsar Junction?,RouteCheck,RouteCheck
+Is there a rail connection between Anand Vihar Trm and Manmad Junction?,RouteCheck,RouteCheck
+Is there a rail connection between Anand Vihar and Vasco Da Gama?,RouteCheck,RouteCheck
+Ju Hwh Superfast Special's train number is 57620?,TrainCheck,TrainCheck
+Ms Salem Express's train number is 7622?,TrainCheck,TrainCheck
+16185 is train number of Pnbe Sgrl Lnk E?,TrainCheck,TrainCheck
+Are there any train routes between Mannargudi and Sahibganj Junction?,RouteCheck,RouteCheck
+Bbs Rou Intercity Express's train number is 9422?,TrainCheck,TrainCheck
+Are there any train routes between Paradip and Rajgir?,RouteCheck,RouteCheck
+Dee Bkn Superfast Express is train name for 22605?,TrainCheck,TrainCheck
+Does Bsp Pnbe Express have train number 12741?,TrainCheck,TrainCheck
+Is there a rail connection between Jagdalpur and Bhagat Ki Kothi?,RouteCheck,RouteCheck
+Are Dimapur and Gevra Road connected by rail?,RouteCheck,RouteCheck
+Tpty Cmnr Passenger is train name for 22606?,TrainCheck,TrainCheck
+Does there exist a route between Ambala Cant Junction and Kochuveli?,RouteCheck,TrainCheck
+Are there any train routes between Sambalpur and Simla?,RouteCheck,RouteCheck
+9422 is train number of Bbs Rou Intercity Express?,TrainCheck,TrainCheck
+57620 is train number of Ju Hwh Superfast Special?,TrainCheck,TrainCheck
+Is there a rail connection between Bangalore Cant and Dwarka?,RouteCheck,RouteCheck
+Are Tiruchchirapali and Dekargaon connected by rail?,RouteCheck,RouteCheck
+Abkp Jbp Express's train number is 8244?,TrainCheck,TrainCheck
+Does Bpl Pbh Superfast Express have train number 22875?,TrainCheck,TrainCheck
+Cdg Rmr Special is train name for 2015?,TrainCheck,TrainCheck
+Are there any train routes between Mangalore Cntl and Tiruchchirapali?,RouteCheck,RouteCheck
+The train number 2236 corresponds to Bkn Udn Special?,TrainCheck,TrainCheck
+22442 is train number of Vskp Sc Superfast Special?,TrainCheck,TrainCheck
+15232 is train number of Snsi Puri Special?,TrainCheck,TrainCheck
+Does Bsb Sdah Express have train number 12978?,TrainCheck,TrainCheck
+Is there a rail connection between Rohtak Junction and Miraj Junction?,RouteCheck,RouteCheck
+Is there a rail connection between Radhikapur and Howrah Junction?,RouteCheck,RouteCheck
+7622 is train number of Ms Salem Express?,TrainCheck,TrainCheck
+Are there any train routes between Bhojudih Junction and Vellankanni?,RouteCheck,RouteCheck
+Are there any train routes between Kurseong and Beas?,RouteCheck,RouteCheck
+Does Bkn Bsp Express have train number 7116?,TrainCheck,TrainCheck
+Purvanchal Express is train name for 2741?,TrainCheck,TrainCheck
+Prr Vm Express's train number is 58702?,TrainCheck,TrainCheck
+Are there any train routes between Bokaro Stl City and Amravati?,RouteCheck,RouteCheck
+Is there a rail connection between Guntakal Junction and Kamakhya?,RouteCheck,RouteCheck
+Are there any train routes between Kazipet Junction and Bagalkot?,RouteCheck,RouteCheck
+Are there any train routes between Dimapur and Gevra Road?,RouteCheck,RouteCheck
+Bsb Sbp Express's train number is 19802?,TrainCheck,TrainCheck
+Are Radhikapur and Howrah Junction connected by rail?,RouteCheck,RouteCheck
+Does there exist a route between Balrampur and Ranchi?,RouteCheck,RouteCheck
+Bkn Ypr Special's train number is 2838?,TrainCheck,TrainCheck
+Do Jamalpur Junction and Paradip have a rail connection?,RouteCheck,RouteCheck
+Are there any train routes between Partapgarh Junction and Bhavnagar Trmus?,RouteCheck,RouteCheck
+Does there exist a route between Purna Junction and Silchar?,RouteCheck,RouteCheck
+Hazarduari Express is train name for 11035?,TrainCheck,TrainCheck
+The train number 12230 corresponds to Jungle Safari?,TrainCheck,TrainCheck
+Does there exist a route between Anand Vihar and Vasco Da Gama?,RouteCheck,RouteCheck
+Are Anand Vihar and Vasco Da Gama connected by rail?,RouteCheck,RouteCheck
+The train number 22512 corresponds to Hwh Prr Express?,TrainCheck,TrainCheck
+Is there a rail connection between Aurangabad and Shalimar?,RouteCheck,RouteCheck
+Ms Salem Express is train name for 7622?,TrainCheck,TrainCheck
+Do Mokameh Junction and Madurai Junction have a rail connection?,RouteCheck,RouteCheck
+Are there any train routes between Lucknow Ne and Bayana Junction?,RouteCheck,RouteCheck
+The train number 3113 corresponds to Sheshadri Express?,TrainCheck,TrainCheck
+Nagpur Pune Express is train name for 22857?,TrainCheck,TrainCheck
+Latur Pvr Special's train number is 18507?,TrainCheck,TrainCheck
+Are Manmad Junction and Manuguru connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Ahmedabad Mg and Amb Andaura?,RouteCheck,RouteCheck
+Does Mfp Bju Special have train number 6543?,TrainCheck,TrainCheck
+Bkn Ypr Special is train name for 2838?,TrainCheck,TrainCheck
+Does there exist a route between Mathura Junction and Srinagar?,RouteCheck,RouteCheck
+Does Danapur Hwh Express have train number 9732?,TrainCheck,TrainCheck
+The train number 18611 corresponds to Hubli Passenger?,TrainCheck,TrainCheck
+Are there any train routes between New Delhi and Latur?,RouteCheck,RouteCheck
+22857 is train number of Nagpur Pune Express?,TrainCheck,TrainCheck
+Ljn Jp Special's train number is 2691?,TrainCheck,TrainCheck
+Does Cdg Rmr Special have train number 2015?,TrainCheck,TrainCheck
+7324 is train number of Nsl Sc Special?,TrainCheck,TrainCheck
+Kochuveli Gr's train number is 14001?,TrainCheck,TrainCheck
+Is there a rail connection between Mahuva Junction and Rishikesh?,RouteCheck,RouteCheck
+Does there exist a route between Bolpur S Niktn and Habibganj?,RouteCheck,RouteCheck
+52588 is train number of Anvt Premium?,TrainCheck,TrainCheck
+The train number 15604 corresponds to Adi Jaipur Special?,TrainCheck,TrainCheck
+Do Sambalpur and Simla have a rail connection?,RouteCheck,RouteCheck
+Varuna Express's train number is 17644?,TrainCheck,TrainCheck
+The train number 13109 corresponds to Hwh Kir Express?,TrainCheck,TrainCheck
+Are there any train routes between Kathgodam and Hyderabad Decan?,RouteCheck,RouteCheck
+14257 is train number of Jbp Intercity E?,TrainCheck,TrainCheck
+Tirupathi Express is train name for 2907?,TrainCheck,TrainCheck
+Ju Puri Express is train name for 12130?,TrainCheck,TrainCheck
+Does there exist a route between Lumding Junction and Kacheguda?,RouteCheck,RouteCheck
+Are there any train routes between Nandurbar and Lumding Junction?,RouteCheck,RouteCheck
+19802 is train number of Bsb Sbp Express?,TrainCheck,TrainCheck
+Does Anvt Premium have train number 52588?,TrainCheck,TrainCheck
+Does Bbs Rou Intercity Express have train number 9422?,TrainCheck,TrainCheck
+12230 is train number of Jungle Safari?,TrainCheck,TrainCheck
+The train number 58702 corresponds to Prr Vm Express?,TrainCheck,TrainCheck
+Does Jp Bdts Premium have train number 22456?,TrainCheck,TrainCheck
+Is there a rail connection between Firozpur Cant and Tatanagar Junction?,RouteCheck,RouteCheck
+Is there a rail connection between Ranchi and Haldia?,RouteCheck,RouteCheck
+Does Hwh Prr Express have train number 22512?,TrainCheck,TrainCheck
+Does there exist a route between Mumbai Central and Rae Bareli Junction?,RouteCheck,RouteCheck
+Does Jungle Safari have train number 12230?,TrainCheck,TrainCheck
+Do Somnath and Merta Road Junction have a rail connection?,RouteCheck,TrainCheck
+Are Adilabad and Karaikal connected by rail?,RouteCheck,RouteCheck
+Does there exist a route between Jamnagar and Palitana?,RouteCheck,RouteCheck
+Kochuveli Gr is train name for 14001?,TrainCheck,TrainCheck
+Are there any train routes between Vishakapatnam and Palani?,RouteCheck,RouteCheck
+Do Rameswaram and Bhind have a rail connection?,RouteCheck,RouteCheck
+The train number 11024 corresponds to Nanda Devi Express?,TrainCheck,TrainCheck
+Does Dee Bkn Superfast Express have train number 22605?,TrainCheck,TrainCheck
+Are there any train routes between Lumding Junction and Kacheguda?,RouteCheck,RouteCheck
+Are Bijapur and Shakti Nagar connected by rail?,RouteCheck,RouteCheck
+Bbs Ypr Superfast Special's train number is 4823?,TrainCheck,TrainCheck
+Does St Aii Special have train number 18606?,TrainCheck,TrainCheck
+Ntv Intercity is train name for 17480?,TrainCheck,TrainCheck
+Hubli Passenger's train number is 18611?,TrainCheck,TrainCheck
+18645 is train number of Dhn Garib Rath?,TrainCheck,TrainCheck
+Is there a rail connection between Lucknow Ne and Bayana Junction?,RouteCheck,RouteCheck
+Are there any train routes between Aurangabad and Shalimar?,RouteCheck,RouteCheck
+Does there exist a route between Mhow and Allahabad Junction?,RouteCheck,RouteCheck
+Bhopal Express's train number is 15105?,TrainCheck,TrainCheck
+Are Kurseong and Beas connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Adilabad and Karaikal?,RouteCheck,RouteCheck
+Is there a rail connection between Manmad Junction and Manuguru?,RouteCheck,RouteCheck
+The train number 2015 corresponds to Cdg Rmr Special?,TrainCheck,TrainCheck
+The train number 22875 corresponds to Bpl Pbh Superfast Express?,TrainCheck,TrainCheck
+Are Somnath and Merta Road Junction connected by rail?,RouteCheck,RouteCheck
+Are there any train routes between Udagamandalam and Nandurbar?,RouteCheck,RouteCheck
+Are there any train routes between Naharlagun and Gorakhpur Junction?,RouteCheck,RouteCheck
+Are there any train routes between Jagdalpur and Bhagat Ki Kothi?,RouteCheck,RouteCheck
+Is there a rail connection between Tiruchchirapali and Dekargaon?,RouteCheck,RouteCheck
+Do Bagalkot and Titlagarh have a rail connection?,RouteCheck,RouteCheck
+3180 is train number of Ald Ltt Special?,TrainCheck,TrainCheck
+Are there any train routes between Nanded and Kanpur Anwrganj?,RouteCheck,RouteCheck
+Does Abkp Durg Passenger E have train number 52457?,TrainCheck,TrainCheck
+6301 is train number of Rtgh Bkn Special?,TrainCheck,TrainCheck
+Bsb Sdah Express's train number is 12978?,TrainCheck,TrainCheck
+Narmada Express Passenger's train number is 1708?,TrainCheck,TrainCheck
+Does there exist a route between Murkeongselek and C Shahumharaj T?,RouteCheck,RouteCheck
+Are there any train routes between Anand Vihar and Vasco Da Gama?,RouteCheck,RouteCheck
+The train number 12209 corresponds to Ald Adi Express?,TrainCheck,TrainCheck
+13109 is train number of Hwh Kir Express?,TrainCheck,TrainCheck
+Ru Hyb Special's train number is 22453?,TrainCheck,TrainCheck
+Do Ranchi and Haldia have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Khajuraho and Tirunelveli?,RouteCheck,RouteCheck
+18606 is train number of St Aii Special?,TrainCheck,TrainCheck
+Bp Amh Express's train number is 11052?,TrainCheck,TrainCheck
+Hwh Prr Express's train number is 22512?,TrainCheck,TrainCheck
+Are Dadar and Neral connected by rail?,RouteCheck,RouteCheck
+Does Af Aii Intercity have train number 14055?,TrainCheck,TrainCheck
+The train number 14001 corresponds to Kochuveli Gr?,TrainCheck,TrainCheck
+12741 is train number of Bsp Pnbe Express?,TrainCheck,TrainCheck
+11098 is train number of Bsp Rewa Fst Pg?,TrainCheck,TrainCheck
+13205 is train number of Chandigarh Express?,TrainCheck,TrainCheck
+Does Ngp Pune Superfast Special have train number 16102?,TrainCheck,TrainCheck
+Jp Koaa Premium's train number is 12938?,TrainCheck,TrainCheck
+Does there exist a route between Bangalore Cant and Dwarka?,RouteCheck,TrainCheck
+Do Trivandrum Cntl and Jamnagar have a rail connection?,RouteCheck,RouteCheck
+Are there any train routes between Mandasor and Kolkata?,RouteCheck,RouteCheck
+The train number 4037 corresponds to Aii Puri Express?,TrainCheck,TrainCheck
+Bdts Rmr Express's train number is 3043?,TrainCheck,TrainCheck
+Does Hazarduari Express have train number 11035?,TrainCheck,TrainCheck
+Are Sambalpur and Simla connected by rail?,RouteCheck,RouteCheck
+Are Thanjavur and Baramati connected by rail?,RouteCheck,RouteCheck
+Do Kishanganj and Bidar have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Rewa and Alleppey?,RouteCheck,RouteCheck
+Do Sikar Junction and Kurnool Town have a rail connection?,RouteCheck,TrainCheck
+Are Lokmanyatilak T and Agra Cantt connected by rail?,RouteCheck,RouteCheck
+Are Aurangabad and Shalimar connected by rail?,RouteCheck,RouteCheck
+Does Pune Nanded Express have train number 12548?,TrainCheck,TrainCheck
+Sln Aii Express's train number is 15111?,TrainCheck,TrainCheck
+Ald Ltt Special is train name for 3180?,TrainCheck,TrainCheck
+Does Lku Ndls Ac Express have train number 15056?,TrainCheck,TrainCheck
+Are there any train routes between Merta Road Junction and Pathankot?,RouteCheck,RouteCheck
+Kota Janshtbdi's train number is 2234?,TrainCheck,TrainCheck
+Is there a rail connection between Paradip and Rajgir?,RouteCheck,RouteCheck
+Does there exist a route between Ahmedabad Mg and Amb Andaura?,RouteCheck,RouteCheck
+Are there any train routes between Sikar Junction and Kurnool Town?,RouteCheck,RouteCheck
+18507 is train number of Latur Pvr Special?,TrainCheck,TrainCheck
+12783 is train number of Mewar Express?,TrainCheck,TrainCheck
+Cnb Cstm Special is train name for 12053?,TrainCheck,TrainCheck
+Do Singrauli and Kollam Junction have a rail connection?,RouteCheck,TrainCheck
+The train number 18464 corresponds to Bbs Bpo Express?,TrainCheck,TrainCheck
+Aii Jp Superfast Special's train number is 22928?,TrainCheck,TrainCheck
+Are there any train routes between Purna Junction and Silchar?,RouteCheck,RouteCheck
+Does there exist a route between Jaisalmer and Murkeongselek?,RouteCheck,RouteCheck
+Ndls Uhp Ac Special's train number is 11056?,TrainCheck,TrainCheck
+Does there exist a route between Delhi and Naharlagun?,RouteCheck,RouteCheck
+Does there exist a route between Trivandrum Cntl and Jamnagar?,RouteCheck,RouteCheck
+The train number 19802 corresponds to Bsb Sbp Express?,TrainCheck,TrainCheck
+Are Mhow and Allahabad Junction connected by rail?,RouteCheck,RouteCheck
+Are there any train routes between Howrah Junction and Sai P Nilayam?,RouteCheck,RouteCheck
+74640 is train number of Gkp Ltt Express?,TrainCheck,TrainCheck
+Do Dimapur and Gevra Road have a rail connection?,RouteCheck,TrainCheck
+Do Adilabad and Karaikal have a rail connection?,RouteCheck,TrainCheck
+Narmada Express Passenger is train name for 1708?,TrainCheck,TrainCheck
+Are Gwalior and Dharmanagar connected by rail?,RouteCheck,RouteCheck
+The train number 9422 corresponds to Bbs Rou Intercity Express?,TrainCheck,TrainCheck
+Does there exist a route between Kathgodam and Hyderabad Decan?,RouteCheck,RouteCheck
+22606 is train number of Tpty Cmnr Passenger?,TrainCheck,TrainCheck
+Are Bhojudih Junction and Vellankanni connected by rail?,RouteCheck,RouteCheck
+Are there any train routes between Kozhikode and Meerut City?,RouteCheck,RouteCheck
+Swarna Jayanti is train name for 12537?,TrainCheck,TrainCheck
+Does there exist a route between Ajni and Mathura Junction?,RouteCheck,RouteCheck
+Do New Delhi and Latur have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Bandra Terminus and Banka?,RouteCheck,RouteCheck
+Hazarduari Express's train number is 11035?,TrainCheck,TrainCheck
+Lku Ndls Ac Express's train number is 15056?,TrainCheck,TrainCheck
+Are there any train routes between Singrauli and Kollam Junction?,RouteCheck,RouteCheck
+Do Jagdalpur and Bhagat Ki Kothi have a rail connection?,RouteCheck,TrainCheck
+Is there a rail connection between Howrah Junction and Sai P Nilayam?,RouteCheck,RouteCheck
+Do Abohar and Dimapur have a rail connection?,RouteCheck,RouteCheck
+The train number 12123 corresponds to Hbj Ngp Special?,TrainCheck,TrainCheck
+Is there a rail connection between New Delhi and Latur?,RouteCheck,RouteCheck
+Is there a rail connection between Thanjavur and Baramati?,RouteCheck,RouteCheck
+The train number 2838 corresponds to Bkn Ypr Special?,TrainCheck,TrainCheck
+Are there any train routes between Adilabad and Karaikal?,RouteCheck,RouteCheck
+Are there any train routes between Bandra Terminus and Banka?,RouteCheck,RouteCheck
+Ltt Puri Superfast Express's train number is 4409?,TrainCheck,TrainCheck
+The train number 12548 corresponds to Pune Nanded Express?,TrainCheck,TrainCheck
+Do Dhubri and Dibrugarh Town have a rail connection?,RouteCheck,RouteCheck
+The train number 22605 corresponds to Dee Bkn Superfast Express?,TrainCheck,TrainCheck
+Do Jaipur and Metupalaiyam have a rail connection?,RouteCheck,TrainCheck
+Does there exist a route between Rameswaram and Bhind?,RouteCheck,RouteCheck
+Does Snsi Puri Special have train number 15232?,TrainCheck,TrainCheck
+Ndls Uhp Ac Special is train name for 11056?,TrainCheck,TrainCheck
+Bsp Pnbe Express's train number is 12741?,TrainCheck,TrainCheck
+The train number 12774 corresponds to Ms Tpj Superfast Express?,TrainCheck,TrainCheck
+Are there any train routes between Radhikapur and Howrah Junction?,RouteCheck,RouteCheck
+Is there a rail connection between Gwalior and Dharmanagar?,RouteCheck,RouteCheck
+12272 is train number of Muzaffarpur Express?,TrainCheck,TrainCheck
+Does Nanda Devi Express have train number 11024?,TrainCheck,TrainCheck
+Aii Jp Superfast Special is train name for 22928?,TrainCheck,TrainCheck
+Do Tiruchchirapali and Dekargaon have a rail connection?,RouteCheck,RouteCheck
+Is there a rail connection between Kurseong and Beas?,RouteCheck,RouteCheck
+Pnbe Sgrl Lnk E is train name for 16185?,TrainCheck,TrainCheck
+Do Partapgarh Junction and Bhavnagar Trmus have a rail connection?,RouteCheck,TrainCheck
+Agtl Dmr Passenger's train number is 12603?,TrainCheck,TrainCheck
+Are Mandasor and Kolkata connected by rail?,RouteCheck,RouteCheck
+Does Latur Pvr Special have train number 18507?,TrainCheck,TrainCheck
+3556 is train number of Jp Mysore Express?,TrainCheck,TrainCheck
+Do Kazipet Junction and Bagalkot have a rail connection?,RouteCheck,RouteCheck
+Do Ajni and Mathura Junction have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Rewari and Bokaro Stl City?,RouteCheck,RouteCheck
+Are Guntakal Junction and Kamakhya connected by rail?,RouteCheck,RouteCheck
+Does there exist a route between Sainagar Shirdi and Amritsar Junction?,RouteCheck,RouteCheck
+Palani Express's train number is 12403?,TrainCheck,TrainCheck
+Does there exist a route between Lokmanyatilak T and Agra Cantt?,RouteCheck,RouteCheck
+Are Rewa and Alleppey connected by rail?,RouteCheck,RouteCheck
+12548 is train number of Pune Nanded Express?,TrainCheck,TrainCheck
+Are Neral and Narasapur connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Dadar and Neral?,RouteCheck,RouteCheck
+Kcvl Ltt Superfast Express is train name for 12702?,TrainCheck,TrainCheck
+Bsb Mys Express is train name for 22415?,TrainCheck,TrainCheck
+Are Kanpur Central and Ratangarh Junction connected by rail?,RouteCheck,RouteCheck
+58702 is train number of Prr Vm Express?,TrainCheck,TrainCheck
+Is there a rail connection between Rewari and Bokaro Stl City?,RouteCheck,RouteCheck
+Does Hbj Ngp Special have train number 12123?,TrainCheck,TrainCheck
+Does there exist a route between Partapgarh Junction and Bhavnagar Trmus?,RouteCheck,RouteCheck
+Does Agtl Dmr Passenger have train number 12603?,TrainCheck,TrainCheck
+Does there exist a route between Bhojudih Junction and Vellankanni?,RouteCheck,RouteCheck
+Jp Mysore Express's train number is 3556?,TrainCheck,TrainCheck
+Hwh Prr Express is train name for 22512?,TrainCheck,TrainCheck
+Itr Tata Passgn's train number is 15119?,TrainCheck,TrainCheck
+Jungle Safari is train name for 12230?,TrainCheck,TrainCheck
+Do Eranakulam Junction and Guntur Junction have a rail connection?,RouteCheck,TrainCheck
+Mq Bgkt Express's train number is 18501?,TrainCheck,TrainCheck
+Are Ambala Cant Junction and Kochuveli connected by rail?,RouteCheck,RouteCheck
+Sheshadri Express is train name for 3113?,TrainCheck,TrainCheck
+12603 is train number of Agtl Dmr Passenger?,TrainCheck,TrainCheck
+Are Mangalore Cntl and Tiruchchirapali connected by rail?,RouteCheck,RouteCheck
+The train number 23347 corresponds to Ltt Rn Special?,TrainCheck,TrainCheck
+Do Mahuva Junction and Rishikesh have a rail connection?,RouteCheck,TrainCheck
+Are Rangiya Junction and Kanpur Central connected by rail?,RouteCheck,RouteCheck
+Are Ranchi and Haldia connected by rail?,RouteCheck,RouteCheck
+Jp Bdts Premium's train number is 22456?,TrainCheck,TrainCheck
+Do Manmad Junction and Manuguru have a rail connection?,RouteCheck,RouteCheck
+Are there any train routes between Jamalpur Junction and Paradip?,RouteCheck,RouteCheck
+Are there any train routes between Karaikal and Guwahati?,RouteCheck,RouteCheck
+Does there exist a route between Radhikapur and Howrah Junction?,RouteCheck,RouteCheck
+Does Bdts Rmr Express have train number 3043?,TrainCheck,TrainCheck
+Ms Tpj Superfast Express's train number is 12774?,TrainCheck,TrainCheck
+Is there a rail connection between Rewa and Alleppey?,RouteCheck,RouteCheck
+Are there any train routes between Ahmedabad Mg and Amb Andaura?,RouteCheck,RouteCheck
+Bsp Pune Superfast Express is train name for 12910?,TrainCheck,TrainCheck
+The train number 16185 corresponds to Pnbe Sgrl Lnk E?,TrainCheck,TrainCheck
+Do Rangiya Junction and Kanpur Central have a rail connection?,RouteCheck,RouteCheck
+Bsp Rewa Fst Pg's train number is 11098?,TrainCheck,TrainCheck
+Are there any train routes between Mahuva Junction and Rishikesh?,RouteCheck,RouteCheck
+Is there a rail connection between Nanded and Kanpur Anwrganj?,RouteCheck,RouteCheck
+Does there exist a route between Puducherry and Gudur Junction?,RouteCheck,RouteCheck
+Are there any train routes between Rewa and Alleppey?,RouteCheck,RouteCheck
+The train number 15056 corresponds to Lku Ndls Ac Express?,TrainCheck,TrainCheck
+12786 is train number of Mahakoshal Express?,TrainCheck,TrainCheck
+Do Sainagar Shirdiesvantpur Junction and Sainagar Shirdi have a rail connection?,RouteCheck,RouteCheck
+Do Naharlagun and Gorakhpur Junction have a rail connection?,RouteCheck,RouteCheck
+Katra Premium is train name for 12441?,TrainCheck,TrainCheck
+Ned Vskp Express's train number is 5611?,TrainCheck,TrainCheck
+Are Bokaro Stl City and Amravati connected by rail?,RouteCheck,RouteCheck
+Does Itr Tata Passgn have train number 15119?,TrainCheck,TrainCheck
+Does Ubl Ltt Express have train number 18216?,TrainCheck,TrainCheck
+The train number 17644 corresponds to Varuna Express?,TrainCheck,TrainCheck
+Are there any train routes between Kishanganj and Bidar?,RouteCheck,RouteCheck
+Is there a rail connection between Dhubri and Dibrugarh Town?,RouteCheck,RouteCheck
+The train number 22453 corresponds to Ru Hyb Special?,TrainCheck,TrainCheck
+Mewar Express's train number is 12783?,TrainCheck,TrainCheck
+Does Bhopal Express have train number 15105?,TrainCheck,TrainCheck
+Does Tpty Cmnr Passenger have train number 22606?,TrainCheck,TrainCheck
+Swarna Jayanti's train number is 12537?,TrainCheck,TrainCheck
+Is there a rail connection between Kollam Junction and Guruvayur?,RouteCheck,RouteCheck
+22453 is train number of Ru Hyb Special?,TrainCheck,TrainCheck
+12978 is train number of Bsb Sdah Express?,TrainCheck,TrainCheck
+Are there any train routes between Fazilka and Punalur?,RouteCheck,RouteCheck
+Does there exist a route between Vishakapatnam and Palani?,RouteCheck,RouteCheck
+Chandigarh Express's train number is 13205?,TrainCheck,TrainCheck
+Does there exist a route between Jogbani and Raxual Junction?,RouteCheck,RouteCheck
+The train number 3057 corresponds to Bbs Pnbe Special?,TrainCheck,TrainCheck
+Chandigarh Express is train name for 13205?,TrainCheck,TrainCheck
+Does Varuna Express have train number 17644?,TrainCheck,TrainCheck
+Does Vskp Sc Superfast Special have train number 22442?,TrainCheck,TrainCheck
+The train number 17480 corresponds to Ntv Intercity?,TrainCheck,TrainCheck
+Do Mhow and Allahabad Junction have a rail connection?,RouteCheck,RouteCheck
+Hwh Kir Express's train number is 13109?,TrainCheck,TrainCheck
+Asr Ndls Express's train number is 13242?,TrainCheck,TrainCheck
+Jungle Safari's train number is 12230?,TrainCheck,TrainCheck
+7116 is train number of Bkn Bsp Express?,TrainCheck,TrainCheck
+Are there any train routes between Thanjavur and Baramati?,RouteCheck,RouteCheck
+The train number 22442 corresponds to Vskp Sc Superfast Special?,TrainCheck,TrainCheck
+Do Jammu Tawi and Gwalior have a rail connection?,RouteCheck,TrainCheck
+Mfp Bju Special's train number is 6543?,TrainCheck,TrainCheck
+Are there any train routes between Jammu Tawi and Gwalior?,RouteCheck,RouteCheck
+Does Hubli Passenger have train number 18611?,TrainCheck,TrainCheck
+Does Prr Vm Express have train number 58702?,TrainCheck,TrainCheck
+Mewar Express is train name for 12783?,TrainCheck,TrainCheck
+Does Bkn Ypr Special have train number 2838?,TrainCheck,TrainCheck
+Jbp Intercity E's train number is 14257?,TrainCheck,TrainCheck
+The train number 15119 corresponds to Itr Tata Passgn?,TrainCheck,TrainCheck
+Does Ru Hyb Special have train number 22453?,TrainCheck,TrainCheck
+2741 is train number of Purvanchal Express?,TrainCheck,TrainCheck
+Ngp Pune Superfast Special is train name for 16102?,TrainCheck,TrainCheck
+Kota Jaipur Passenger is train name for 12981?,TrainCheck,TrainCheck
+Dee Bkn Superfast Express's train number is 22605?,TrainCheck,TrainCheck
+Rtgh Bkn Special's train number is 6301?,TrainCheck,TrainCheck
+Does there exist a route between Tiruchchirapali and Dekargaon?,RouteCheck,RouteCheck
+18464 is train number of Bbs Bpo Express?,TrainCheck,TrainCheck
+The train number 18645 corresponds to Dhn Garib Rath?,TrainCheck,TrainCheck
+Danapur Hwh Express's train number is 9732?,TrainCheck,TrainCheck
+17239 is train number of Ald Dli Superfast Special?,TrainCheck,TrainCheck
+Is there a rail connection between Mhow and Allahabad Junction?,RouteCheck,RouteCheck
+Does there exist a route between Sengottai and Pandharpur?,RouteCheck,RouteCheck
+Bsp Pnbe Express is train name for 12741?,TrainCheck,TrainCheck
+The train number 2741 corresponds to Purvanchal Express?,TrainCheck,TrainCheck
+St Aii Special's train number is 18606?,TrainCheck,TrainCheck
+Is there a rail connection between Sambalpur and Simla?,RouteCheck,RouteCheck
+Do Murkeongselek and C Shahumharaj T have a rail connection?,RouteCheck,TrainCheck
+15483 is train number of Dibrugarh Express?,TrainCheck,TrainCheck
+Do Purna Junction and Silchar have a rail connection?,RouteCheck,RouteCheck
+The train number 6543 corresponds to Mfp Bju Special?,TrainCheck,TrainCheck
+Are there any train routes between Guntur Junction and Durg?,RouteCheck,RouteCheck
+Muzaffarpur Express is train name for 12272?,TrainCheck,TrainCheck
+Are Mumbai Central and Rae Bareli Junction connected by rail?,RouteCheck,RouteCheck
+Does Sheshadri Express have train number 3113?,TrainCheck,TrainCheck
+Ltt Rn Special's train number is 23347?,TrainCheck,TrainCheck
+Do Bangalore Cy Junction and Bangriposi have a rail connection?,RouteCheck,RouteCheck
+Does Bbs Pnbe Special have train number 3057?,TrainCheck,TrainCheck
+Are there any train routes between Sainagar Shirdiesvantpur Junction and Sainagar Shirdi?,RouteCheck,RouteCheck
+Do Kochuveli and Shoranur Junction have a rail connection?,RouteCheck,TrainCheck
+Does there exist a route between Dadar and Neral?,RouteCheck,RouteCheck
+The train number 12537 corresponds to Swarna Jayanti?,TrainCheck,TrainCheck
+Are Mokameh Junction and Madurai Junction connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Vishakapatnam and Palani?,RouteCheck,RouteCheck
+Is there a rail connection between Bayana Junction and Surat?,RouteCheck,RouteCheck
+The train number 22415 corresponds to Bsb Mys Express?,TrainCheck,TrainCheck
+Jp Koaa Premium is train name for 12938?,TrainCheck,TrainCheck
+Does Nsl Sc Special have train number 7324?,TrainCheck,TrainCheck
+Alleppey Express's train number is 12921?,TrainCheck,TrainCheck
+Do Mangalore Cntl and Tiruchchirapali have a rail connection?,RouteCheck,RouteCheck
+Do Solapur Junction and Malda Town have a rail connection?,RouteCheck,RouteCheck
+Sheshadri Express's train number is 3113?,TrainCheck,TrainCheck
+Are Agra Fort and Rameswaram connected by rail?,RouteCheck,RouteCheck
+Jp Bdts Premium is train name for 22456?,TrainCheck,TrainCheck
+The train number 12130 corresponds to Ju Puri Express?,TrainCheck,TrainCheck
+Does Pnbe Sgrl Lnk E have train number 16185?,TrainCheck,TrainCheck
+The train number 12053 corresponds to Cnb Cstm Special?,TrainCheck,TrainCheck
+Are Bolpur S Niktn and Habibganj connected by rail?,RouteCheck,RouteCheck
+Does there exist a route between Nanded and Kanpur Anwrganj?,RouteCheck,RouteCheck
+17644 is train number of Varuna Express?,TrainCheck,TrainCheck
+The train number 11056 corresponds to Ndls Uhp Ac Special?,TrainCheck,TrainCheck
+The train number 12910 corresponds to Bsp Pune Superfast Express?,TrainCheck,TrainCheck
+Does there exist a route between Bangalore Cy Junction and Bangriposi?,RouteCheck,RouteCheck
+Does Kcvl Ltt Superfast Express have train number 12702?,TrainCheck,TrainCheck
+Do Agra Fort and Rameswaram have a rail connection?,RouteCheck,TrainCheck
+Do Guntakal Junction and Kamakhya have a rail connection?,RouteCheck,RouteCheck
+Do Gulbarga and Una Himachal have a rail connection?,RouteCheck,RouteCheck
+Does there exist a route between Somnath and Merta Road Junction?,RouteCheck,RouteCheck
+Are Bandra Terminus and Banka connected by rail?,RouteCheck,RouteCheck
+Does there exist a route between Agra Fort and Rameswaram?,RouteCheck,RouteCheck
+Are there any train routes between Dadar and Neral?,RouteCheck,RouteCheck
+Do Bandra Terminus and Banka have a rail connection?,RouteCheck,TrainCheck
+Does there exist a route between Mannargudi and Sahibganj Junction?,RouteCheck,RouteCheck
+Do Karaikal and Guwahati have a rail connection?,RouteCheck,RouteCheck
+Does Ndls Uhp Ac Special have train number 11056?,TrainCheck,TrainCheck
+The train number 7622 corresponds to Ms Salem Express?,TrainCheck,TrainCheck
+Are there any train routes between Rameswaram and Bhind?,RouteCheck,RouteCheck
+Abkp Durg Passenger E is train name for 52457?,TrainCheck,TrainCheck
+Are there any train routes between Abohar and Dimapur?,RouteCheck,RouteCheck
+Are there any train routes between Somnath and Merta Road Junction?,RouteCheck,RouteCheck
+2691 is train number of Ljn Jp Special?,TrainCheck,TrainCheck
+Do Bilaspur Junction and Jhajha have a rail connection?,RouteCheck,RouteCheck
+Does Jp Koaa Premium have train number 12938?,TrainCheck,TrainCheck
+Ubl Ltt Express is train name for 18216?,TrainCheck,TrainCheck
+Is there a rail connection between Kozhikode and Meerut City?,RouteCheck,RouteCheck
+Is there a rail connection between Sengottai and Pandharpur?,RouteCheck,RouteCheck
+Is there a rail connection between Bilaspur Junction and Jhajha?,RouteCheck,RouteCheck
+Cpr G Express is train name for 2761?,TrainCheck,TrainCheck
+Are Murkeongselek and C Shahumharaj T connected by rail?,RouteCheck,RouteCheck
+Does Bp Amh Express have train number 11052?,TrainCheck,TrainCheck
+Are Mathura Junction and Srinagar connected by rail?,RouteCheck,RouteCheck
+Ald Dli Superfast Special's train number is 17239?,TrainCheck,TrainCheck
+Are there any train routes between Agra Fort and Rameswaram?,RouteCheck,RouteCheck
+Is there a rail connection between Saharanpur and Kakinada Town?,RouteCheck,RouteCheck
+The train number 2907 corresponds to Tirupathi Express?,TrainCheck,TrainCheck
+Hubli Passenger is train name for 18611?,TrainCheck,TrainCheck
+Are Jamalpur Junction and Paradip connected by rail?,RouteCheck,RouteCheck
+Are Ajni and Mathura Junction connected by rail?,RouteCheck,RouteCheck
+Do Mathura Junction and Srinagar have a rail connection?,RouteCheck,RouteCheck
+Is there a rail connection between Delhi and Naharlagun?,RouteCheck,RouteCheck
+The train number 2696 corresponds to Ltt Coa Express?,TrainCheck,TrainCheck
+23347 is train number of Ltt Rn Special?,TrainCheck,TrainCheck
+Are Partapgarh Junction and Bhavnagar Trmus connected by rail?,RouteCheck,RouteCheck
+12053 is train number of Cnb Cstm Special?,TrainCheck,TrainCheck
+Is there a rail connection between Kazipet Junction and Bagalkot?,RouteCheck,RouteCheck
+Does Cpr G Express have train number 2761?,TrainCheck,TrainCheck
+Does there exist a route between Guntur Junction and Durg?,RouteCheck,RouteCheck
+Do Munabao and Koraput have a rail connection?,RouteCheck,RouteCheck
+Is there a rail connection between Mathura Junction and Srinagar?,RouteCheck,RouteCheck
+Do Mandasor and Kolkata have a rail connection?,RouteCheck,RouteCheck
+Are Kazipet Junction and Bagalkot connected by rail?,RouteCheck,RouteCheck
+Does Purvanchal Express have train number 2741?,TrainCheck,TrainCheck
+Does there exist a route between Bagalkot and Titlagarh?,RouteCheck,RouteCheck
+Is there a rail connection between Ambala Cant Junction and Kochuveli?,RouteCheck,RouteCheck
+Does Cnb Cstm Special have train number 12053?,TrainCheck,TrainCheck
+2236 is train number of Bkn Udn Special?,TrainCheck,TrainCheck
+Is there a rail connection between Mannargudi and Sahibganj Junction?,RouteCheck,RouteCheck
+14055 is train number of Af Aii Intercity?,TrainCheck,TrainCheck
+Ltt Puri Superfast Express is train name for 4409?,TrainCheck,TrainCheck
+Prr Vm Express is train name for 58702?,TrainCheck,TrainCheck
+Bsb Ghy Special is train name for 57306?,TrainCheck,TrainCheck
+Are there any train routes between Tiruchchirapali and Dekargaon?,RouteCheck,RouteCheck
+Mahakoshal Express is train name for 12786?,TrainCheck,TrainCheck
+Does Gkp Ltt Express have train number 74640?,TrainCheck,TrainCheck
+Does Ned Vskp Express have train number 5611?,TrainCheck,TrainCheck
+2761 is train number of Cpr G Express?,TrainCheck,TrainCheck
+22415 is train number of Bsb Mys Express?,TrainCheck,TrainCheck
+Are there any train routes between Neral and Narasapur?,RouteCheck,RouteCheck
+Does Ald Ltt Special have train number 3180?,TrainCheck,TrainCheck
+Does Ltt Puri Superfast Express have train number 4409?,TrainCheck,TrainCheck
+Are there any train routes between Jamnagar and Palitana?,RouteCheck,RouteCheck
+Do Rewari and Bokaro Stl City have a rail connection?,RouteCheck,TrainCheck
+Does Bti Lgh Passenger have train number 11207?,TrainCheck,TrainCheck
+Ltt Coa Express's train number is 2696?,TrainCheck,TrainCheck
+Are Puducherry and Gudur Junction connected by rail?,RouteCheck,RouteCheck
+Does there exist a route between Firozpur Cant and Tatanagar Junction?,RouteCheck,TrainCheck
+Does there exist a route between Bayana Junction and Surat?,RouteCheck,RouteCheck
+Bpl Pbh Superfast Express is train name for 22875?,TrainCheck,TrainCheck
+Are there any train routes between Bangalore Cy Junction and Bangriposi?,RouteCheck,RouteCheck
+Varuna Express is train name for 17644?,TrainCheck,TrainCheck
+Does Chandigarh Express have train number 13205?,TrainCheck,TrainCheck
+Snsi Puri Special is train name for 15232?,TrainCheck,TrainCheck
+Does Mq Bgkt Express have train number 18501?,TrainCheck,TrainCheck
+Is there a rail connection between Bijapur and Shakti Nagar?,RouteCheck,RouteCheck
+The train number 13153 corresponds to Pune Src Special?,TrainCheck,TrainCheck
+Is there a rail connection between Agra Fort and Rameswaram?,RouteCheck,RouteCheck
+Bkn Bsp Express is train name for 7116?,TrainCheck,TrainCheck
+Are Purna Junction and Silchar connected by rail?,RouteCheck,RouteCheck
+Pnbe Sgrl Lnk E's train number is 16185?,TrainCheck,TrainCheck
+Ned Vskp Express is train name for 5611?,TrainCheck,TrainCheck
+Does Pune Src Special have train number 13153?,TrainCheck,TrainCheck
+Does there exist a route between Mokameh Junction and Madurai Junction?,RouteCheck,RouteCheck
+Are Karaikal and Guwahati connected by rail?,RouteCheck,RouteCheck
+The train number 12978 corresponds to Bsb Sdah Express?,TrainCheck,TrainCheck
+Does Swarna Jayanti have train number 12537?,TrainCheck,TrainCheck
+Does there exist a route between Kazipet Junction and Bagalkot?,RouteCheck,RouteCheck
+The train number 12272 corresponds to Muzaffarpur Express?,TrainCheck,TrainCheck
+Are there any train routes between Bagalkot and Titlagarh?,RouteCheck,RouteCheck
+Is there a rail connection between Bandra Terminus and Banka?,RouteCheck,RouteCheck
+Are there any train routes between Guntakal Junction and Kamakhya?,RouteCheck,RouteCheck
+Is there a rail connection between Kishanganj and Bidar?,RouteCheck,RouteCheck
+Does there exist a route between Jammu Tawi and Gwalior?,RouteCheck,RouteCheck
+9732 is train number of Danapur Hwh Express?,TrainCheck,TrainCheck
+Is there a rail connection between Munabao and Koraput?,RouteCheck,RouteCheck
+Are Nanded and Kanpur Anwrganj connected by rail?,RouteCheck,RouteCheck
+Is there a rail connection between Kanpur Central and Ratangarh Junction?,RouteCheck,RouteCheck
+Does Sln Aii Express have train number 15111?,TrainCheck,TrainCheck
+Does Bbs Bpo Express have train number 18464?,TrainCheck,TrainCheck
+Are Agartala and Thanjavur connected by rail?,RouteCheck,RouteCheck
+Does Tirupathi Express have train number 2907?,TrainCheck,TrainCheck
+Are Jagdalpur and Bhagat Ki Kothi connected by rail?,RouteCheck,RouteCheck
+Are Saharanpur and Kakinada Town connected by rail?,RouteCheck,RouteCheck
+Does Bsp Pune Superfast Express have train number 12910?,TrainCheck,TrainCheck
+Is there a rail connection between Ajni and Mathura Junction?,RouteCheck,RouteCheck
+2234 is train number of Kota Janshtbdi?,TrainCheck,TrainCheck
+Is there a rail connection between Narasapur and Bijapur?,RouteCheck,RouteCheck
+Is there a rail connection between Udagamandalam and Nandurbar?,RouteCheck,RouteCheck
+Bkn Udn Special is train name for 2236?,TrainCheck,TrainCheck
+8244 is train number of Abkp Jbp Express?,TrainCheck,TrainCheck
+Cpr G Express's train number is 2761?,TrainCheck,TrainCheck
+Is there a rail connection between Nandurbar and Lumding Junction?,RouteCheck,RouteCheck
+The train number 15232 corresponds to Snsi Puri Special?,TrainCheck,TrainCheck
+Does there exist a route between Sikar Junction and Kurnool Town?,RouteCheck,RouteCheck
+The train number 11207 corresponds to Bti Lgh Passenger?,TrainCheck,TrainCheck
+Does there exist a route between Bilaspur Junction and Jhajha?,RouteCheck,RouteCheck
+Are Kochuveli and Shoranur Junction connected by rail?,RouteCheck,RouteCheck
+Does Anvt Rdp Link have train number 15618?,TrainCheck,TrainCheck
+Does there exist a route between Karwar and Hospet Junction?,RouteCheck,RouteCheck
+Is there a rail connection between Murkeongselek and C Shahumharaj T?,RouteCheck,RouteCheck
+The train number 11035 corresponds to Hazarduari Express?,TrainCheck,TrainCheck
+Does there exist a route between Saharanpur and Kakinada Town?,RouteCheck,RouteCheck
+22512 is train number of Hwh Prr Express?,TrainCheck,TrainCheck
+Is there a rail connection between Purna Junction and Silchar?,RouteCheck,RouteCheck
+Do Karwar and Hospet Junction have a rail connection?,RouteCheck,RouteCheck
+Are there any train routes between Narasapur and Bijapur?,RouteCheck,RouteCheck
+Are Ahmedabad Mg and Amb Andaura connected by rail?,RouteCheck,RouteCheck
+Does there exist a route between Lucknow Ne and Bayana Junction?,RouteCheck,RouteCheck
+Aii Puri Express is train name for 4037?,TrainCheck,TrainCheck
+Vskp Sc Superfast Special is train name for 22442?,TrainCheck,TrainCheck
+The train number 22928 corresponds to Aii Jp Superfast Special?,TrainCheck,TrainCheck
+Is there a rail connection between Partapgarh Junction and Bhavnagar Trmus?,RouteCheck,RouteCheck
+15105 is train number of Bhopal Express?,TrainCheck,TrainCheck
+12921 is train number of Alleppey Express?,TrainCheck,TrainCheck
+Does there exist a route between Thanjavur and Baramati?,RouteCheck,RouteCheck
+Does Ntv Intercity have train number 17480?,TrainCheck,TrainCheck
+Does there exist a route between Merta Road Junction and Pathankot?,RouteCheck,TrainCheck
+3043 is train number of Bdts Rmr Express?,TrainCheck,TrainCheck
+12774 is train number of Ms Tpj Superfast Express?,TrainCheck,TrainCheck
+Do Anand Vihar Trm and Manmad Junction have a rail connection?,RouteCheck,TrainCheck
+Does Aii Jp Superfast Special have train number 22928?,TrainCheck,TrainCheck
+Do Dadar and Neral have a rail connection?,RouteCheck,RouteCheck
+Are there any train routes between Rewari and Bokaro Stl City?,RouteCheck,RouteCheck
+Are Harihar and Bhusaval Junction connected by rail?,RouteCheck,RouteCheck
+Itr Tata Passgn is train name for 15119?,TrainCheck,TrainCheck
+Bbs Pnbe Special is train name for 3057?,TrainCheck,TrainCheck
+The train number 52588 corresponds to Anvt Premium?,TrainCheck,TrainCheck
+Does there exist a route between Mayiladuturai J and Shri Ganganagar?,RouteCheck,TrainCheck
+Do Jamnagar and Palitana have a rail connection?,RouteCheck,RouteCheck
+2907 is train number of Tirupathi Express?,TrainCheck,TrainCheck
+Gkp Ltt Express is train name for 74640?,TrainCheck,TrainCheck
+Are Abohar and Dimapur connected by rail?,RouteCheck,RouteCheck
+Pune Src Special is train name for 13153?,TrainCheck,TrainCheck
+Does Jbp Intercity E have train number 14257?,TrainCheck,TrainCheck
+Do Bangalore Cant and Dwarka have a rail connection?,RouteCheck,TrainCheck
+Is there a rail connection between Abohar and Dimapur?,RouteCheck,RouteCheck
+Are Rameswaram and Bhind connected by rail?,RouteCheck,RouteCheck
+The train number 1708 corresponds to Narmada Express Passenger?,TrainCheck,TrainCheck
+Does Ljn Jp Special have train number 2691?,TrainCheck,TrainCheck
+Is there a rail connection between Karaikal and Guwahati?,RouteCheck,RouteCheck
+3113 is train number of Sheshadri Express?,TrainCheck,TrainCheck
+Does Mahakoshal Express have train number 12786?,TrainCheck,TrainCheck
+Ltt Rn Special is train name for 23347?,TrainCheck,TrainCheck
